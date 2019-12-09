@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-todo-manager/static/css/main.60b9e341.chunk.css",
+    "main.js": "/react-todo-manager/static/js/main.9edc7468.chunk.js",
+    "main.js.map": "/react-todo-manager/static/js/main.9edc7468.chunk.js.map",
+    "runtime-main.js": "/react-todo-manager/static/js/runtime-main.27739374.js",
+    "runtime-main.js.map": "/react-todo-manager/static/js/runtime-main.27739374.js.map",
+    "static/js/2.2db36a16.chunk.js": "/react-todo-manager/static/js/2.2db36a16.chunk.js",
+    "static/js/2.2db36a16.chunk.js.map": "/react-todo-manager/static/js/2.2db36a16.chunk.js.map",
+    "index.html": "/react-todo-manager/index.html",
+    "precache-manifest.88301568c66797ceac87819e98648d3d.js": "/react-todo-manager/precache-manifest.88301568c66797ceac87819e98648d3d.js",
+    "service-worker.js": "/react-todo-manager/service-worker.js",
+    "static/css/main.60b9e341.chunk.css.map": "/react-todo-manager/static/css/main.60b9e341.chunk.css.map",
+    "static/js/2.2db36a16.chunk.js.LICENSE": "/react-todo-manager/static/js/2.2db36a16.chunk.js.LICENSE",
+    "static/media/Input.scss": "/react-todo-manager/static/media/SFProText-Heavy.6c498791.ttf",
+    "static/media/Todo.scss": "/react-todo-manager/static/media/SFProText-Regular.85bd46c1.ttf",
+    "static/media/app.scss": "/react-todo-manager/static/media/SFProText-Semibold.1a131c94.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27739374.js",
+    "static/js/2.2db36a16.chunk.js",
+    "static/css/main.60b9e341.chunk.css",
+    "static/js/main.9edc7468.chunk.js"
+  ]
+}
